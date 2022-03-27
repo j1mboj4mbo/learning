@@ -1,0 +1,5 @@
+w Pythonie można zrobić praktycznie wszystko
+w Pythonie można zastosować pętle by wykonywała polecenie nawet w nieskończoność!
+w Pythonie można importować pliki zewnętrzne
+w Pythonie można działać z danymi
+w Pythonie można zrobić wiele przydatnych skryptów
